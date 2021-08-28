@@ -3,3 +3,4 @@
 1. [02-aula](https://github.com/GJayme/pdm-helloWord)
 1.1 [EAD - Cadastro](https://github.com/GJayme/Cadastro)
 2. [03-aula](https://github.com/GJayme/alguns-widgets)
+2.1. [EAD - HaVagas](https://github.com/GJayme/HaVagas)
