@@ -9,3 +9,4 @@
 5. [06-aula](https://github.com/GJayme/aula06-pdm)
 5.1 [EAD - Intents Java version](https://github.com/GJayme/Intents)
 6. [07-aula: Livros](https://github.com/GJayme/aula-07-pdm)
+7. [P1-SeriesMananger](https://github.com/GJayme/SeriesManager)
